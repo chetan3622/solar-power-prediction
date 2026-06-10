@@ -357,7 +357,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 # ---------------- PREDICTION ---------------- #
 
-if st.button("🔮 Predict Power Generation"):
+if st.button("🔮 Predict"):
 
     features = np.array([[
         distance_to_solar_noon,
