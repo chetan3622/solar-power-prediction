@@ -417,7 +417,7 @@ st.markdown("<br><hr>", unsafe_allow_html=True)
 st.markdown(
     """
     <center>
-    <h4>☀️ Solar AI Forecasting Platform</h4>
+    <h4>☀️ Solar Power Predicting Platform</h4>
     <p>Powered by Machine Learning | Renewable Energy Analytics</p>
     </center>
     """,
