@@ -236,7 +236,7 @@ with st.sidebar:
         width=120
     )
 
-    st.title("☀️ Solar AI")
+    st.title("☀️ Solar")
 
     st.success("Machine Learning Dashboard")
 
