@@ -248,7 +248,6 @@ with st.sidebar:
     st.write("### Features")
     st.write("✅ Real-time Prediction")
     st.write("✅ Weather Analytics")
-    st.write("✅ AI Forecasting")
     st.write("✅ Renewable Energy")
 
 # ---------------- HEADER ---------------- #
