@@ -238,7 +238,7 @@ with st.sidebar:
 
     st.title("☀️ Solar")
 
-    st.success("Machine Learning Dashboard")
+    st.success("Solar Power prediction Dashboard")
 
     st.metric("Model Status", "Active")
     st.metric("Input Features", "9")
